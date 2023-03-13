@@ -1,0 +1,16 @@
+
+.menu-link {
+   text-decoration: none;
+   color:black;
+}
+
+.aside ul li {
+
+   list-style-type: none;
+}
+
+.menu-link:hover {
+   background-color: #81AE64;
+}
+
+
